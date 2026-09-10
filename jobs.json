@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-09-10T07:01:08.056Z",
-  "total_jobs": 17,
+  "last_updated": "2026-09-10T12:17:47.796Z",
+  "total_jobs": 18,
   "jobs": [
+    {
+      "id": "remotive:2086540",
+      "title": "Inside Sales Contractor",
+      "company": "Credit Wellness, LLC",
+      "location": "Worldwide",
+      "country": "Remote",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
+      "posted_date": "2026-09-08",
+      "role_type": "Data Scientist",
+      "salary_min": null,
+      "salary_max": null,
+      "first_seen": "2026-09-10"
+    },
     {
       "id": "remotive:2091045",
       "title": "Tier III Service Desk Engineer",

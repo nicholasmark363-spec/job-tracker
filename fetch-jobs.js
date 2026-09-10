@@ -20,6 +20,17 @@ function makeId(source, rawId, url) {
   return `${source}:${rawId || url}`;
 }
 
+function classifyRole(title, fallbackTerm) {
+  const t = (title || '').toLowerCase();
+  const isScientist = /data scien|machine learning|\bml engineer|research scientist/.test(t);
+  const isAnalyst = /data analy|business analy|analytics/.test(t);
+  if (isScientist && !isAnalyst) return 'Data Scientist';
+  if (isAnalyst && !isScientist) return 'Data Analyst';
+  if (isScientist && isAnalyst) return /scientist/i.test(fallbackTerm) ? 'Data Scientist' : 'Data Analyst';
+  // title didn't clearly match either — fall back to whichever search term found it
+  return /scientist/i.test(fallbackTerm) ? 'Data Scientist' : 'Data Analyst';
+}
+
 async function fetchAdzuna() {
   if (!ADZUNA_APP_ID || !ADZUNA_APP_KEY) {
     console.warn('ADZUNA_APP_ID / ADZUNA_APP_KEY not set — skipping Adzuna (get free keys at https://developer.adzuna.com/)');
@@ -48,7 +59,7 @@ async function fetchAdzuna() {
             source: 'Adzuna',
             url: j.redirect_url,
             posted_date: j.created ? j.created.slice(0, 10) : null,
-            role_type: /scientist/i.test(term) ? 'Data Scientist' : 'Data Analyst',
+            role_type: classifyRole(j.title, term),
             salary_min: j.salary_min || null,
             salary_max: j.salary_max || null,
           });
@@ -82,7 +93,7 @@ async function fetchRemotive() {
           source: 'Remotive',
           url: j.url,
           posted_date: j.publication_date ? j.publication_date.slice(0, 10) : null,
-          role_type: /scientist/i.test(term) ? 'Data Scientist' : 'Data Analyst',
+          role_type: classifyRole(j.title, term),
           salary_min: null,
           salary_max: null,
         });

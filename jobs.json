@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-13T07:32:47.288Z",
+  "last_updated": "2026-09-13T12:56:22.344Z",
   "total_jobs": 19,
   "jobs": [
     {
@@ -15,6 +15,20 @@
       "salary_min": null,
       "salary_max": null,
       "first_seen": "2026-09-12"
+    },
+    {
+      "id": "remotive:1680495",
+      "title": "Remote Office Assistant",
+      "company": "Coalition Technologies ",
+      "location": "Worldwide",
+      "country": "Remote",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
+      "posted_date": "2026-09-11",
+      "role_type": "Data Scientist",
+      "salary_min": null,
+      "salary_max": null,
+      "first_seen": "2026-09-10"
     },
     {
       "id": "remotive:2086540",
@@ -249,20 +263,6 @@
       "source": "Remotive",
       "url": "https://remotive.com/remote-jobs/all-others/face-deduplication-collection-2091093",
       "posted_date": "2026-08-13",
-      "role_type": "Data Scientist",
-      "salary_min": null,
-      "salary_max": null,
-      "first_seen": "2026-09-10"
-    },
-    {
-      "id": "remotive:1680495",
-      "title": "Remote Office Assistant",
-      "company": "Coalition Technologies ",
-      "location": "Worldwide",
-      "country": "Remote",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
-      "posted_date": "2026-08-11",
       "role_type": "Data Scientist",
       "salary_min": null,
       "salary_max": null,

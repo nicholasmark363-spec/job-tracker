@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-18T07:30:11.652Z",
-  "total_jobs": 19,
+  "last_updated": "2026-09-18T12:29:05.114Z",
+  "total_jobs": 20,
   "jobs": [
     {
       "id": "remotive:1919266",
@@ -29,6 +29,20 @@
       "salary_min": null,
       "salary_max": null,
       "first_seen": "2026-09-10"
+    },
+    {
+      "id": "remotive:2091129",
+      "title": "Senior Data Scientist",
+      "company": "Lemon.io",
+      "location": "Northern America, LATAM, Europe, APAC",
+      "country": "Remote",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/data/senior-data-scientist-2091129",
+      "posted_date": "2026-09-16",
+      "role_type": "Data Scientist",
+      "salary_min": null,
+      "salary_max": null,
+      "first_seen": "2026-09-18"
     },
     {
       "id": "remotive:2069746",

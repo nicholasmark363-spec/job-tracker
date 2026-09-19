@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-09-19T07:26:13.347Z",
-  "total_jobs": 20,
+  "last_updated": "2026-09-19T11:59:09.013Z",
+  "total_jobs": 21,
   "jobs": [
+    {
+      "id": "remotive:2091130",
+      "title": "Senior .NET Full-stack Developer",
+      "company": "Lemon.io",
+      "location": "Northern America, LATAM, Europe, APAC",
+      "country": "Remote",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-net-full-stack-developer-2091130",
+      "posted_date": "2026-09-17",
+      "role_type": "Data Scientist",
+      "salary_min": null,
+      "salary_max": null,
+      "first_seen": "2026-09-19"
+    },
     {
       "id": "remotive:1919266",
       "title": "Senior Independent AI Engineer / Architect",

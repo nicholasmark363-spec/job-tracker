@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-09-23T06:58:49.512Z",
-  "total_jobs": 25,
+  "last_updated": "2026-09-23T12:35:20.710Z",
+  "total_jobs": 26,
   "jobs": [
+    {
+      "id": "remotive:2091144",
+      "title": "Content Reviewer - United States",
+      "company": "TELUS Digital",
+      "location": "USA",
+      "country": "Remote",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091144",
+      "posted_date": "2026-09-21",
+      "role_type": "Data Scientist",
+      "salary_min": null,
+      "salary_max": null,
+      "first_seen": "2026-09-23"
+    },
     {
       "id": "remotive:2091141",
       "title": "Frontend Web Application Developer",

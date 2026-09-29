@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-28T22:12:28.833Z",
-  "total_jobs": 25,
+  "last_updated": "2026-09-29T02:07:18.757Z",
+  "total_jobs": 24,
   "jobs": [
     {
       "id": "remotive:2091144",
@@ -333,20 +333,6 @@
       "source": "Remotive",
       "url": "https://remotive.com/remote-jobs/software-development/senior-data-engineer-2091097",
       "posted_date": "2026-08-19",
-      "role_type": "Data Scientist",
-      "salary_min": null,
-      "salary_max": null,
-      "first_seen": "2026-09-10"
-    },
-    {
-      "id": "remotive:2091068",
-      "title": "Head of Marketing & Communications",
-      "company": "garden3d",
-      "location": "Worldwide",
-      "country": "Remote",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/marketing/head-of-marketing-communications-2091068",
-      "posted_date": "2026-08-15",
       "role_type": "Data Scientist",
       "salary_min": null,
       "salary_max": null,

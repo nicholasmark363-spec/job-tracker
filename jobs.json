@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-02T23:53:22.930Z",
-  "total_jobs": 25,
+  "last_updated": "2026-10-03T02:55:02.529Z",
+  "total_jobs": 24,
   "jobs": [
     {
       "id": "remotive:2091132",
@@ -333,20 +333,6 @@
       "source": "Remotive",
       "url": "https://remotive.com/remote-jobs/software-development/senior-golang-developer-2091098",
       "posted_date": "2026-08-20",
-      "role_type": "Data Scientist",
-      "salary_min": null,
-      "salary_max": null,
-      "first_seen": "2026-09-10"
-    },
-    {
-      "id": "remotive:2091097",
-      "title": "Senior Data Engineer",
-      "company": "Lemon.io",
-      "location": "LATAM, Europe, USA, Canada, APAC",
-      "country": "Remote",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-data-engineer-2091097",
-      "posted_date": "2026-08-19",
       "role_type": "Data Scientist",
       "salary_min": null,
       "salary_max": null,

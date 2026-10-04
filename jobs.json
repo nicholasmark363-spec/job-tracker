@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-03T21:34:20.499Z",
-  "total_jobs": 24,
+  "last_updated": "2026-10-04T00:13:57.660Z",
+  "total_jobs": 23,
   "jobs": [
     {
       "id": "remotive:2091132",
@@ -319,20 +319,6 @@
       "source": "Remotive",
       "url": "https://remotive.com/remote-jobs/all-others/content-reviewer-english-us-2091105",
       "posted_date": "2026-08-21",
-      "role_type": "Data Scientist",
-      "salary_min": null,
-      "salary_max": null,
-      "first_seen": "2026-09-10"
-    },
-    {
-      "id": "remotive:2091098",
-      "title": "Senior Golang Developer",
-      "company": "Lemon.io",
-      "location": "Europe, USA, UK, Canada, Australia, Singapore",
-      "country": "Remote",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-golang-developer-2091098",
-      "posted_date": "2026-08-20",
       "role_type": "Data Scientist",
       "salary_min": null,
       "salary_max": null,

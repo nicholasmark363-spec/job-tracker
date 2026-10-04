@@ -1,7 +1,35 @@
 {
-  "last_updated": "2026-10-04T06:05:54.403Z",
-  "total_jobs": 23,
+  "last_updated": "2026-10-04T12:37:28.071Z",
+  "total_jobs": 24,
   "jobs": [
+    {
+      "id": "remotive:1749306",
+      "title": "Freelance Copywriter",
+      "company": "Coalition Technologies ",
+      "location": "Worldwide",
+      "country": "Remote",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306",
+      "posted_date": "2026-10-02",
+      "role_type": "Data Scientist",
+      "salary_min": null,
+      "salary_max": null,
+      "first_seen": "2026-09-10"
+    },
+    {
+      "id": "remotive:2091133",
+      "title": "Senior React Full-stack Developer",
+      "company": "Lemon.io",
+      "location": "Europe, USA, Canada, APAC",
+      "country": "Remote",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091133",
+      "posted_date": "2026-10-02",
+      "role_type": "Data Scientist",
+      "salary_min": null,
+      "salary_max": null,
+      "first_seen": "2026-10-04"
+    },
     {
       "id": "remotive:2091132",
       "title": "Senior back-end Engineer",
@@ -249,20 +277,6 @@
       "source": "Remotive",
       "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
       "posted_date": "2026-09-04",
-      "role_type": "Data Scientist",
-      "salary_min": null,
-      "salary_max": null,
-      "first_seen": "2026-09-10"
-    },
-    {
-      "id": "remotive:1749306",
-      "title": "Freelance Copywriter",
-      "company": "Coalition Technologies ",
-      "location": "Worldwide",
-      "country": "Remote",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306",
-      "posted_date": "2026-09-02",
       "role_type": "Data Scientist",
       "salary_min": null,
       "salary_max": null,

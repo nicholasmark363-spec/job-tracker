@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-08T21:38:34.003Z",
-  "total_jobs": 24,
+  "last_updated": "2026-10-09T01:33:32.934Z",
+  "total_jobs": 23,
   "jobs": [
     {
       "id": "remotive:2091045",
@@ -319,20 +319,6 @@
       "source": "Remotive",
       "url": "https://remotive.com/remote-jobs/qa/senior-qa-engineer-2091100",
       "posted_date": "2026-08-26",
-      "role_type": "Data Scientist",
-      "salary_min": null,
-      "salary_max": null,
-      "first_seen": "2026-09-10"
-    },
-    {
-      "id": "remotive:2091099",
-      "title": "Senior DevOps Engineer",
-      "company": "Lemon.io",
-      "location": "LATAM, Europe, USA, Canada, APAC",
-      "country": "Remote",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/devops/senior-devops-engineer-2091099",
-      "posted_date": "2026-08-25",
       "role_type": "Data Scientist",
       "salary_min": null,
       "salary_max": null,

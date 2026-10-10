@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-09T20:10:24.268Z",
-  "total_jobs": 23,
+  "last_updated": "2026-10-10T00:07:46.770Z",
+  "total_jobs": 22,
   "jobs": [
     {
       "id": "remotive:2091045",
@@ -305,20 +305,6 @@
       "source": "Remotive",
       "url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091101",
       "posted_date": "2026-08-27",
-      "role_type": "Data Scientist",
-      "salary_min": null,
-      "salary_max": null,
-      "first_seen": "2026-09-10"
-    },
-    {
-      "id": "remotive:2091100",
-      "title": "Senior QA Engineer",
-      "company": "Lemon.io",
-      "location": "Europe",
-      "country": "Remote",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/qa/senior-qa-engineer-2091100",
-      "posted_date": "2026-08-26",
       "role_type": "Data Scientist",
       "salary_min": null,
       "salary_max": null,

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-19T21:37:37.416Z",
-  "total_jobs": 22,
+  "last_updated": "2026-10-20T00:49:09.595Z",
+  "total_jobs": 20,
   "jobs": [
     {
       "id": "remotive:2091158",
@@ -281,34 +281,6 @@
       "salary_min": null,
       "salary_max": null,
       "first_seen": "2026-09-12"
-    },
-    {
-      "id": "remotive:2091088",
-      "title": "Sales Jedi",
-      "company": "Creative Force ",
-      "location": "Europe",
-      "country": "Remote",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/sales/sales-jedi-2091088",
-      "posted_date": "2026-09-05",
-      "role_type": "Data Scientist",
-      "salary_min": null,
-      "salary_max": null,
-      "first_seen": "2026-09-10"
-    },
-    {
-      "id": "remotive:2091087",
-      "title": "SaaS Product Support Jedi",
-      "company": "Creative Force",
-      "location": "Europe, EMEA, UK, Germany, France, European timezones",
-      "country": "Remote",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/customer-service/saas-product-support-jedi-2091087",
-      "posted_date": "2026-09-05",
-      "role_type": "Data Scientist",
-      "salary_min": null,
-      "salary_max": null,
-      "first_seen": "2026-09-10"
     }
   ]
 }

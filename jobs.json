@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-25T22:41:21.422Z",
-  "total_jobs": 21,
+  "last_updated": "2026-10-26T00:51:55.925Z",
+  "total_jobs": 20,
   "jobs": [
     {
       "id": "remotive:2091161",
@@ -281,20 +281,6 @@
       "salary_min": null,
       "salary_max": null,
       "first_seen": "2026-09-18"
-    },
-    {
-      "id": "remotive:2091126",
-      "title": "AI Response Evaluator",
-      "company": "iMerit Technology",
-      "location": "France, Japan, Turkey, Vietnam, Mexico, Norway",
-      "country": "Remote",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/artificial-intelligence/ai-response-evaluator-2091126",
-      "posted_date": "2026-09-11",
-      "role_type": "Data Scientist",
-      "salary_min": null,
-      "salary_max": null,
-      "first_seen": "2026-09-12"
     }
   ]
 }

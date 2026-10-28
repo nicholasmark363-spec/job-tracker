@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-10-28T01:55:02.205Z",
-  "total_jobs": 20,
+  "last_updated": "2026-10-28T07:43:31.242Z",
+  "total_jobs": 21,
   "jobs": [
+    {
+      "id": "remotive:2091134",
+      "title": "Head of Engineering",
+      "company": "Lemon.io",
+      "location": "Worldwide",
+      "country": "Remote",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/software-development/head-of-engineering-2091134",
+      "posted_date": "2026-10-26",
+      "role_type": "Data Scientist",
+      "salary_min": null,
+      "salary_max": null,
+      "first_seen": "2026-10-28"
+    },
     {
       "id": "remotive:2091161",
       "title": "AI Trainer - Video Annotation",

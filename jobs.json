@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-30T23:22:33.201Z",
-  "total_jobs": 22,
+  "last_updated": "2026-10-31T02:34:26.833Z",
+  "total_jobs": 19,
   "jobs": [
     {
       "id": "remotive:2091135",
@@ -267,48 +267,6 @@
       "salary_min": null,
       "salary_max": null,
       "first_seen": "2026-09-19"
-    },
-    {
-      "id": "remotive:1919266",
-      "title": "Senior Independent AI Engineer / Architect",
-      "company": "A.Team",
-      "location": "Americas, Europe, Israel",
-      "country": "Remote",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
-      "posted_date": "2026-09-16",
-      "role_type": "Data Scientist",
-      "salary_min": null,
-      "salary_max": null,
-      "first_seen": "2026-09-10"
-    },
-    {
-      "id": "remotive:1919265",
-      "title": "Senior Independent Software Developer",
-      "company": "A.Team",
-      "location": "Americas, Europe, Israel",
-      "country": "Remote",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-independent-software-developer-1919265",
-      "posted_date": "2026-09-16",
-      "role_type": "Data Scientist",
-      "salary_min": null,
-      "salary_max": null,
-      "first_seen": "2026-09-10"
-    },
-    {
-      "id": "remotive:2091129",
-      "title": "Senior Data Scientist",
-      "company": "Lemon.io",
-      "location": "Northern America, LATAM, Europe, APAC",
-      "country": "Remote",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/data/senior-data-scientist-2091129",
-      "posted_date": "2026-09-16",
-      "role_type": "Data Scientist",
-      "salary_min": null,
-      "salary_max": null,
-      "first_seen": "2026-09-18"
     }
   ]
 }

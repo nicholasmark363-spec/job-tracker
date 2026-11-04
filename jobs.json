@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-11-04T02:29:50.959Z",
+  "last_updated": "2026-11-04T17:38:50.749Z",
   "total_jobs": 15,
   "jobs": [
+    {
+      "id": "remotive:1749306",
+      "title": "Freelance Copywriter",
+      "company": "Coalition Technologies ",
+      "location": "Worldwide",
+      "country": "Remote",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306",
+      "posted_date": "2026-11-02",
+      "role_type": "Data Scientist",
+      "salary_min": null,
+      "salary_max": null,
+      "first_seen": "2026-09-10"
+    },
     {
       "id": "remotive:2091165",
       "title": "Full-Stack Developer",
@@ -151,20 +165,6 @@
       "source": "Remotive",
       "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
       "posted_date": "2026-10-04",
-      "role_type": "Data Scientist",
-      "salary_min": null,
-      "salary_max": null,
-      "first_seen": "2026-09-10"
-    },
-    {
-      "id": "remotive:1749306",
-      "title": "Freelance Copywriter",
-      "company": "Coalition Technologies ",
-      "location": "Worldwide",
-      "country": "Remote",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306",
-      "posted_date": "2026-10-02",
       "role_type": "Data Scientist",
       "salary_min": null,
       "salary_max": null,

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-04T22:59:37.546Z",
-  "total_jobs": 15,
+  "last_updated": "2026-11-05T03:17:57.489Z",
+  "total_jobs": 14,
   "jobs": [
     {
       "id": "remotive:1749306",
@@ -197,20 +197,6 @@
       "salary_min": null,
       "salary_max": null,
       "first_seen": "2026-10-02"
-    },
-    {
-      "id": "remotive:2091144",
-      "title": "Content Reviewer - United States",
-      "company": "TELUS Digital",
-      "location": "USA",
-      "country": "Remote",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091144",
-      "posted_date": "2026-09-21",
-      "role_type": "Data Scientist",
-      "salary_min": null,
-      "salary_max": null,
-      "first_seen": "2026-09-23"
     }
   ]
 }

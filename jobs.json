@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-11-07T10:47:20.127Z",
-  "total_jobs": 15,
+  "last_updated": "2026-11-07T16:41:23.469Z",
+  "total_jobs": 16,
   "jobs": [
+    {
+      "id": "remotive:2091168",
+      "title": "US Remote Patient Care Advocate (Customer Service)",
+      "company": "VXI Global Solutions",
+      "location": "USA",
+      "country": "Remote",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/customer-service/us-remote-patient-care-advocate-customer-service-2091168",
+      "posted_date": "2026-11-06",
+      "role_type": "Data Scientist",
+      "salary_min": null,
+      "salary_max": null,
+      "first_seen": "2026-11-07"
+    },
     {
       "id": "remotive:1185979",
       "title": "Freelance Writer",

@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-11-12T08:32:51.274Z",
-  "total_jobs": 17,
+  "last_updated": "2026-11-12T17:14:05.627Z",
+  "total_jobs": 18,
   "jobs": [
+    {
+      "id": "remotive:2091171",
+      "title": "Customer Service Representative",
+      "company": "ShyftOff",
+      "location": "USA",
+      "country": "Remote",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/customer-service/customer-service-representative-2091171",
+      "posted_date": "2026-11-11",
+      "role_type": "Data Scientist",
+      "salary_min": null,
+      "salary_max": null,
+      "first_seen": "2026-11-12"
+    },
     {
       "id": "remotive:2091136",
       "title": "Senior React Full-stack Developer",

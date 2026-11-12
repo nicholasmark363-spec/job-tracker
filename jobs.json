@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-11-12T01:21:52.618Z",
-  "total_jobs": 16,
+  "last_updated": "2026-11-12T08:32:51.274Z",
+  "total_jobs": 17,
   "jobs": [
+    {
+      "id": "remotive:2091136",
+      "title": "Senior React Full-stack Developer",
+      "company": "Lemon.io",
+      "location": "LATAM, Europe, USA, Canada, APAC",
+      "country": "Remote",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091136",
+      "posted_date": "2026-11-10",
+      "role_type": "Data Scientist",
+      "salary_min": null,
+      "salary_max": null,
+      "first_seen": "2026-11-12"
+    },
     {
       "id": "remotive:2086540",
       "title": "Inside Sales Contractor",

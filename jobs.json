@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-13T11:19:04.158Z",
-  "total_jobs": 18,
+  "last_updated": "2026-11-13T18:37:32.124Z",
+  "total_jobs": 19,
   "jobs": [
     {
       "id": "remotive:2091171",
@@ -15,6 +15,34 @@
       "salary_min": null,
       "salary_max": null,
       "first_seen": "2026-11-12"
+    },
+    {
+      "id": "remotive:1680495",
+      "title": "Remote Office Assistant",
+      "company": "Coalition Technologies ",
+      "location": "Worldwide",
+      "country": "Remote",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
+      "posted_date": "2026-11-11",
+      "role_type": "Data Scientist",
+      "salary_min": null,
+      "salary_max": null,
+      "first_seen": "2026-09-10"
+    },
+    {
+      "id": "remotive:2091137",
+      "title": "Senior Data Engineer",
+      "company": "Lemon.io",
+      "location": "LATAM, Europe, USA, Canada, APAC",
+      "country": "Remote",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/data/senior-data-engineer-2091137",
+      "posted_date": "2026-11-11",
+      "role_type": "Data Scientist",
+      "salary_min": null,
+      "salary_max": null,
+      "first_seen": "2026-11-13"
     },
     {
       "id": "remotive:2091136",
@@ -193,20 +221,6 @@
       "source": "Remotive",
       "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
       "posted_date": "2026-10-14",
-      "role_type": "Data Scientist",
-      "salary_min": null,
-      "salary_max": null,
-      "first_seen": "2026-09-10"
-    },
-    {
-      "id": "remotive:1680495",
-      "title": "Remote Office Assistant",
-      "company": "Coalition Technologies ",
-      "location": "Worldwide",
-      "country": "Remote",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
-      "posted_date": "2026-10-11",
       "role_type": "Data Scientist",
       "salary_min": null,
       "salary_max": null,

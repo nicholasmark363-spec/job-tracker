@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-13T18:37:32.124Z",
-  "total_jobs": 19,
+  "last_updated": "2026-11-14T00:02:09.440Z",
+  "total_jobs": 18,
   "jobs": [
     {
       "id": "remotive:2091171",
@@ -253,20 +253,6 @@
       "salary_min": null,
       "salary_max": null,
       "first_seen": "2026-10-04"
-    },
-    {
-      "id": "remotive:2091132",
-      "title": "Senior back-end Engineer",
-      "company": "Lemon.io",
-      "location": "Europe, USA, UK, Canada, Australia, Ireland, Switzerland, Singapore, Mexico, Iceland, Norway",
-      "country": "Remote",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132",
-      "posted_date": "2026-09-30",
-      "role_type": "Data Scientist",
-      "salary_min": null,
-      "salary_max": null,
-      "first_seen": "2026-10-02"
     }
   ]
 }

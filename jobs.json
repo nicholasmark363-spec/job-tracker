@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-11-15T09:40:06.885Z",
-  "total_jobs": 18,
+  "last_updated": "2026-11-15T16:42:05.964Z",
+  "total_jobs": 19,
   "jobs": [
+    {
+      "id": "remotive:2091173",
+      "title": "Content Creator - YouTube",
+      "company": "Metics Media",
+      "location": "USA, Canada",
+      "country": "Remote",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/marketing/content-creator-youtube-2091173",
+      "posted_date": "2026-11-13",
+      "role_type": "Data Scientist",
+      "salary_min": null,
+      "salary_max": null,
+      "first_seen": "2026-11-15"
+    },
     {
       "id": "remotive:2091171",
       "title": "Customer Service Representative",

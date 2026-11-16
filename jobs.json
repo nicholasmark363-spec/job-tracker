@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-11-16T08:09:42.313Z",
+  "last_updated": "2026-11-16T18:43:32.864Z",
   "total_jobs": 18,
   "jobs": [
+    {
+      "id": "remotive:2069746",
+      "title": "Tech Lead Full-Stack Rails Engineer",
+      "company": "Mitre Media",
+      "location": "USA, Canada, USA timezones",
+      "country": "Remote",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+      "posted_date": "2026-11-14",
+      "role_type": "Data Scientist",
+      "salary_min": null,
+      "salary_max": null,
+      "first_seen": "2026-09-10"
+    },
     {
       "id": "remotive:2091173",
       "title": "Content Creator - YouTube",
@@ -225,20 +239,6 @@
       "salary_min": null,
       "salary_max": null,
       "first_seen": "2026-10-19"
-    },
-    {
-      "id": "remotive:2069746",
-      "title": "Tech Lead Full-Stack Rails Engineer",
-      "company": "Mitre Media",
-      "location": "USA, Canada, USA timezones",
-      "country": "Remote",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
-      "posted_date": "2026-10-14",
-      "role_type": "Data Scientist",
-      "salary_min": null,
-      "salary_max": null,
-      "first_seen": "2026-09-10"
     },
     {
       "id": "remotive:2091149",

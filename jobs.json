@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-18T18:18:14.024Z",
-  "total_jobs": 18,
+  "last_updated": "2026-11-19T00:36:08.762Z",
+  "total_jobs": 17,
   "jobs": [
     {
       "id": "remotive:2069746",
@@ -239,20 +239,6 @@
       "salary_min": null,
       "salary_max": null,
       "first_seen": "2026-10-19"
-    },
-    {
-      "id": "remotive:2091149",
-      "title": "Software Engineer / AI Code Trainer (Python, Web, Full Stack)",
-      "company": "CodeForAI",
-      "location": "USA, UK, India, Australia, Ireland, New Zealand, Philippines, Pakistan, Singapore, Mexico",
-      "country": "Remote",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-code-trainer-python-web-full-stack-2091149",
-      "posted_date": "2026-10-05",
-      "role_type": "Data Scientist",
-      "salary_min": null,
-      "salary_max": null,
-      "first_seen": "2026-10-06"
     }
   ]
 }

@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-11-20T13:43:34.454Z",
-  "total_jobs": 17,
+  "last_updated": "2026-11-20T21:37:19.405Z",
+  "total_jobs": 18,
   "jobs": [
+    {
+      "id": "remotive:2091177",
+      "title": "Content Reviewer - United States",
+      "company": "TELUS Digital",
+      "location": "USA",
+      "country": "Remote",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091177",
+      "posted_date": "2026-11-19",
+      "role_type": "Data Scientist",
+      "salary_min": null,
+      "salary_max": null,
+      "first_seen": "2026-11-20"
+    },
     {
       "id": "remotive:2069746",
       "title": "Tech Lead Full-Stack Rails Engineer",

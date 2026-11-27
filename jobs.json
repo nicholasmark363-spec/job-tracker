@@ -1,7 +1,21 @@
 {
-  "last_updated": "2026-11-27T02:18:15.902Z",
-  "total_jobs": 19,
+  "last_updated": "2026-11-27T11:04:09.183Z",
+  "total_jobs": 20,
   "jobs": [
+    {
+      "id": "remotive:2091212",
+      "title": "Produktspezialist:in (German-speaking)",
+      "company": "Creative Force ",
+      "location": "Europe, EMEA, Germany, European timezones",
+      "country": "Remote",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote-jobs/customer-service/produktspezialist-in-german-speaking-2091212",
+      "posted_date": "2026-11-25",
+      "role_type": "Data Scientist",
+      "salary_min": null,
+      "salary_max": null,
+      "first_seen": "2026-11-27"
+    },
     {
       "id": "remotive:2091179",
       "title": "WordPress Theme & Plugin Developer",
